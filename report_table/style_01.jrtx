@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio -->
+<jasperTemplate xmlns="http://jasperreports.sourceforge.net/jasperreports/template" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/template http://jasperreports.sourceforge.net/xsd/jaspertemplate.xsd">
+	<style name="base" fontSize="12">
+		<box topPadding="5" leftPadding="5" bottomPadding="5" rightPadding="5"/>
+	</style>
+	<style name="data-column" fontSize="10">
+		<box topPadding="5" bottomPadding="3"/>
+	</style>
+	<style name="description-column" hTextAlign="Right" fontSize="10">
+		<box topPadding="5" bottomPadding="3" rightPadding="10"/>
+	</style>
+</jasperTemplate>

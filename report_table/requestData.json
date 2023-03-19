@@ -1,0 +1,16 @@
+{
+    "layout": "A4 portrait",
+    "outputFormat": "pdf",
+    "attributes": {
+        "basicData": {
+            "dataBeans": [{
+                    "label": "Bread",
+                    "value": "1"
+                }, {
+                    "label": "Milk",
+                    "value": "2"
+                }
+            ]
+        }        
+    }
+}

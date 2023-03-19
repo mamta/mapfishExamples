@@ -1,0 +1,16 @@
+throwErrorOnExtraParameters: true
+defaultToSvg: true
+
+templates:
+  A4 portrait: !template
+    reportTemplate: main.jrxml
+    attributes:
+      datasource: !datasource
+        attributes:
+          basicData: !jsonDatasource {}
+    processors:
+      - !reportBuilder
+        directory: '.'
+      - !createDataSource
+          processors: []
+          

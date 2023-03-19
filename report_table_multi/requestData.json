@@ -1,0 +1,30 @@
+{
+    "layout": "A4 portrait",
+    "outputFormat": "pdf",
+    "attributes": {
+        "datasource": [{
+                "basicData": {
+                    "dataBeans": [{
+                            "label": "Bread",
+                            "value": "1"
+                        }, {
+                            "label": "Milk",
+                            "value": "2"
+                        }
+                    ]
+                }
+            }, {
+                "basicData": {
+                    "dataBeans": [{
+                            "label": "Banana",
+                            "value": "3"
+                        }, {
+                            "label": "Apple",
+                            "value": "5"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
